@@ -22,11 +22,10 @@
 			<version>4.8.1</version>
 		</dependency>
 		<dependency>
-      <groupId>org.sonarsource.scanner.maven</groupId>
-      <artifactId>sonar-maven-plugin</artifactId>
-      <version>3.2</version>
-    </dependency>
-  </dependencies>
+                       <groupId>org.sonarsource.scanner.maven</groupId>
+                       <artifactId>sonar-maven-plugin</artifactId>
+                       <version>3.2</version>
+               </dependency>
 	</dependencies>
 	<build>
 		<plugins>
